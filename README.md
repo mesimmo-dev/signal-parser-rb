@@ -1,4 +1,4 @@
-# Signal Parser RB
+# Signal Parser 
 
 A lightweight Ruby script for parsing opportunity records and ranking them by signal strength.
 
